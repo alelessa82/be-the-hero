@@ -12,10 +12,13 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "glob": "^7.1.6",
     "knex": "^0.20.15",
-    "sqlite3": "^4.1.1"
+    "lodash": "^4.17.19",
+    "resolve": "^1.17.0",
+    "sqlite3": "^4.2.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.4"
   }
 }
